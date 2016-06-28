@@ -84,6 +84,8 @@ if path1 != '':
 
 path2 = raw_input("Pick a snapshot to update results with. \n")
 
+#fun change
+
 f = open(path2, 'r')
 
 for line in f:
